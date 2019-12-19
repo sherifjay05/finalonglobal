@@ -1,0 +1,34 @@
+body{padding: 5em;}
+
+h1,h2{text-align: center;}
+
+p{width:750px;}
+/*The next rule centers and spaces the media*/
+img, video, audio, canvas, p{
+    //display: block; 
+    margin: 0 auto;
+    text-align: center;
+    align-content: center;
+    padding-bottom: 2em}
+.credits{font-size: 0.5em;
+    color: rgb(200,200,200);}
+
+
+.causes li{
+    list-style: none;
+    display: inline-block;
+}
+
+.Effects li{
+    list-style: none;
+    display: inline-block;
+}
+
+.Consequences li{
+    list-style: none;
+    display: inline-block;
+}
+.Destabilization li{
+    list-style: none;
+    display: inline-block;
+}
